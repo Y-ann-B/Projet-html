@@ -1,1 +1,1 @@
-Le code se touve html est le fichier index.html
+Le code html est le fichier index.html
